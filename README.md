@@ -4,12 +4,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeon-lee-b74353239/)](https://www.linkedin.com/in/soyeon-lee-b74353239/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freeyeon96@gmail.com)](mailto:freeyeon96@gmail.com)
 
 
- I'm Front-End Sfotware Engineer living in South Korea.
+ I'm Front-End Software Engineer living in South Korea.
  I'm developing a mobile app using React Native. 
  The UX/UI is also interestring.
  
  
- I want to communiate with poeple from all over the world and also to experience various thing.
+ I want to communiate with poeple from all over the world and also to experience various things.
  
  <br/>
  
