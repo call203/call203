@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Alina! 🇰🇷
+# 👋 Hi there, I'm Soyeon Lee! 🇰🇷
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeon-lee-b74353239/)](https://www.linkedin.com/in/soyeon-lee-b74353239/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freeyeon96@gmail.com)](mailto:freeyeon96@gmail.com)
