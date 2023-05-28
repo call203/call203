@@ -1,15 +1,18 @@
-# 👋 Hi there, I'm Soyeon Lee! 🇰🇷
+# 👋 Hi there, I'm Soyeon Lee! 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soyeon-lee-b74353239/)](https://www.linkedin.com/in/soyeon-lee-b74353239/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:freeyeon96@gmail.com)](mailto:freeyeon96@gmail.com)
 
 
- I'm Front-End Software Engineer living in South Korea.
- I'm developing a mobile app using React Native. 
- The UX/UI is also interestring.
- 
- 
- I want to communiate with poeple from all over the world and also to experience various things.
+Front-end developer with 1+ years of experience delivering innovative development solutions to drive business growth. I have worked for a startup app company, where I took on significant responsibility, collaborated with other teams and thrives in fast-paced environments.
+
+Development Skills:
+- Proficient in front-end technologies such as React Native, JavaScript
+- Strong problem-solving skills and ability to write clean, efficient code.
+-Understanding of web development best practices and performance optimization techniques.
+
+
+When I'm not working, I enjoy outdoor activities such as hiking and traveling, taking time to appreciate nature, and keeping up with the latest technologies and frameworks.
  
  <br/>
  
