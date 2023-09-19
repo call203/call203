@@ -4,7 +4,7 @@ Hi 👋 My name is Soyeon
 Frontend Developer
 ------------------
 
-Front-end developer with 1+ years of experience delivering innovative development solutions to drive business growth. I have worked for a startup app company, where I took on significant responsibility, collaborated with other teams and thrives in fast-paced environments. 
+Front-end developer with experiences delivering innovative development solutions to drive business growth. I have worked for a startup app company, where I took on significant responsibility, collaborated with other teams and thrives in fast-paced environments. 
 
 
 Development Skills: 
@@ -19,7 +19,6 @@ When I'm not working, I enjoy outdoor activities such as hiking and traveling, t
 
 
 *   🌍  I'm based in Ireland
-*   🖥️  See my portfolio at [MYPortfolio](http://soyeonwork.webflow.io/)
 *   ✉️  You can contact me at [freeyeon96@gmail.com](mailto:freeyeon96@gmail.com)
 *   🤝  I'm open to collaborating on any creative projects### Skills 
 <p align="left">
