@@ -1,10 +1,10 @@
 Hi 👋 My name is Soyeon
 ==============================================================================================================================
 
-Frontend Developer
+Web Developer
 ------------------
 
-Front-end developer with experiences delivering innovative development solutions to drive business growth. I have worked for a startup app company, where I took on significant responsibility, collaborated with other teams and thrives in fast-paced environments. 
+Web developer with experiences delivering innovative development solutions to drive business growth. I have worked for a startup app company, where I took on significant responsibility, collaborated with other teams and thrives in fast-paced environments. 
 
 
 Development Skills: 
