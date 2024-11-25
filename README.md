@@ -1,5 +1,4 @@
-# Hi, I'm Soyeon Lee
-A passionate Front-end Developer
+# Soyeon Lee
 
 ### Who Am I
 Hi there! I'm Soyeon Lee, a Front-end Developer with a passion for creating seamless user experiences.
